@@ -15,4 +15,4 @@ If you wish to download and use this project, you will need to follow these step
 3. Download Nimbus L&F.
 4. Download JDBC driver. 
 
-Feel free to alter the source code as per your liking and add more features.
+Feel free to alter the source code and add more features. 
