@@ -11,8 +11,11 @@ If you wish to download and use this project, you will need to follow these step
     d) inventory - id, name, category, stock, supplier. <br />
     e) customer - name, phone, e_mail, order_no, order_amount, customer_address, order_date, server <br />
     f) menu - name, detail, quantity, price <br />
+<br />
 2. Change user name and password in JDBC connections to your user name and password. <br />
+<br />
 3. Download Nimbus L&F. <br />
+<br />
 4. Download JDBC driver. <br />
-
+<br />
 Feel free to alter the source code and add more features. <br />
